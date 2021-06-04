@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Leeds",
+    "site": "Lovell Park",
+    "locationid": "LP",
+    "phase": "1",
+    "floor": "1",
+    "seatno": "1"
+  },
+  {
+    "city": "Leeds",
+    "site": "Lovell Park",
+    "locationid": "LP",
+    "phase": "1",
+    "floor": "1",
+    "seatno": "2"
+  }
+]
